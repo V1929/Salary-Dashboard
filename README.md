@@ -2,7 +2,9 @@
 ### A project demonstrating my Excel skills.
 ## Introduction
 
-Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data analytics job seekers with valuable insights. Encouraging users to explore salary trends, the dashboard includes preferred job portals, and geographic locations and roles in the field of data analytics, helping to make informed career decisions. 
+Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data analytics job seekers with valuable insights. Encouraging users to explore salary trends, the dashboard includes preferred job portals, and geographic locations and roles in the field of data analytics, helping to make informed career decisions.
+
+![Dashboards_1.mp4](/media/DAshboard_1.mp4)
 
 ### Data Jobs Dataset
 
