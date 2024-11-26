@@ -16,6 +16,12 @@ The dataset used for this project contains real-world data science job informati
 - **🛠️ Skills**
 
 
+### 📉 Charts
+
+#### 📊 Data Science Job Salaries - Bar Chart
+
+<img src=
+
 ## Conclusion
 
 The effort behind the dashboard was created to provided to highlight my skills, and provide insights into the salary, the count of jobs, and trends across various data-related job titles. 
