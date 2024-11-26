@@ -22,10 +22,12 @@ The dataset used for this project contains real-world data science job informati
 
 ![Alt text](media/Salary_Dashboard_Chart.png)
 
-- 🛠️ **Excel Features:** Utilized bar charts where a horizontal layout is easier to read. Essentially, it is optimized layout for clarity.
-- 🎨 **Design Choice:** The horizontal bar chart, as a role is selected, is highlighted for visual comparison of median salaries.
-- 📉 **Data Organization:** The chart, sorted in a descending format aides in readability.
-- 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles. 
+- 🛠️ **Excel Features:** I utilized bar charts where in a horizontal layout, is easier to read. Essentially, it is optimized layout for clarity.
+- 🎨 **Design Choice:** The horizontal bar chart, as a role is selected, the "role" is highlighted for visual comparison of median salaries against other salaries.
+- 📉 **Data Organization:** The chart, sorted in a descending format also aides in readability.
+- 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles.
+
+![Alt text](media/Salary_by_Skill_Count.png)
 
 ## Conclusion
 
