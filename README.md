@@ -22,6 +22,11 @@ The dataset used for this project contains real-world data science job informati
 
 ![Alt text](media/Salary_Dashboard_Chart.png)
 
+- 🛠️ **Excel Features:** Utilized bar charts where a horizontal layout is easier to read. Essentially, it is optimized layout for clarity.
+- 🎨 **Design Choice:** The horizontal bar chart, as a role is selected, is highlighted for visual comparison of median salaries.
+- 📉 **Data Organization:** The chart, sorted in a descending format aides in readability.
+- 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles. 
+
 ## Conclusion
 
 The effort behind the dashboard was created to provided to highlight my skills, and provide insights into the salary, the count of jobs, and trends across various data-related job titles. 
