@@ -10,7 +10,7 @@ Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data ana
 
 The dataset used for this project contains real-world data science job information from 2023. Personally, in using the the dataset, it enhanced my Excel skills demonstrating the skills and tools needed in working in the field of data analytics form the pespective of using Excel. The dataset includes detailed information on job titles, salaries, required skills, job locations, and job search websites.
 
-![Alt text](media/Drop Down.gif)
+![Alt text](media/Drop_Down.gif)  
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
