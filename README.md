@@ -4,7 +4,7 @@
 
 Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data analytics job seekers with valuable insights. Encouraging users to explore salary trends, the dashboard includes preferred job portals, and geographic locations and roles in the field of data analytics, helping to make informed career decisions.
 
-[Data Analytics Dashboard](https://github.com/v1929/Salary-Dashboard/main/images/Dashboard_1.mp4)
+[Data Analytics Dashboard]([https://github.com/v1929/Salary-Dashboard/main/images/Dashboard_1.mp4](https://github.com/V1929/Salary-Dashboard/edit/main/README.md#:~:text=Country.mp4-,Dashboard_1,-.mp4))
 
 ### Data Jobs Dataset
 
