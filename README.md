@@ -27,7 +27,7 @@ The dataset used for this project contains real-world data science job informati
 - 📉 **Data Organization:** The chart, sorted in a descending format also aides in readability.
 - 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles.
 
-![Alt text](media/Salary_by_Skill_Count.png)
+![Alt text](media/2_Salary_by_Skill_Count.png)
 
 ## Conclusion
 
