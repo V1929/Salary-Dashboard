@@ -92,11 +92,15 @@ The formula counts the rows in the jobs table where all the following conditions
 
 ### 📊 Data Science Job Salaries - Bar Chart
 
-![Alt text](media/Salary_Dashboard_Chart.png)
+![Alt text](media/Chart_Role_Annual_Salary.png)
+ <br>
+ Above, the role "Data Anaylst" is highlighted where when analyzing positions, comparisons can be made.
+  <br>
+  
 
-- 🛠️ **Excel Features:** I utilized bar charts where in a horizontal layout, is easier to read. Essentially, it is optimized layout for clarity.
+- 🛠️ **Excel Features:** I utilized bar charts where in a horizontal layout, which are easier to read. It is an optimized layout for clarity.
 - 🎨 **Design Choice:** The horizontal bar chart, as a role is selected, the "role" is highlighted for visual comparison of median salaries against other salaries.
-- 📉 **Data Organization:** The chart, sorted in a descending format also aides in readability.
+- 📉 **Data Organization:** Charts are sorted in a descending format also aides in readability.
 - 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles.
 
 ![Alt text](media/2_Salary_by_Skill_Count.png)
