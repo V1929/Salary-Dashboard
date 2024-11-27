@@ -49,10 +49,11 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 - 🎯 **Tailored Insights:** This provides specific and detailed role information for job titles, regions, and schedule.
 
 
-![Alt text](media/Type.gif)
+![Alt text](media/Type.gif)<br><br>
 
 
 ![Alt text](media/Highlight_1.png)
+
 
 ![Alt text](media/Highlight_2.png)
 
