@@ -104,11 +104,11 @@ The formula counts the rows in the jobs table where all the following conditions
 - 💡 **Insights Gained:** When viewed with the selection of the "country" and "type", in the opening visual provides a comparison of roles.
 
  <br><br>
-Below, though not included in the finished product, scatter plots is a type of data visualization used to represent the relationship between two quantitative variables. They are effective for identifying patterns, trends, and correlations in data.
+Below, while not included in the final product, scatter plots are a type of data visualization used to depict the relationship between two quantitative variables. They are particularly effective for uncovering patterns, trends, and correlations in data.
 
-Key Purposes of a Scatter Plot is the visualizing of relationships. It helps to see if there is a correlation (positive, negative, or none) between variables. The chart below show the relationship between salsry and number of usable job skills
+The primary purpose of a scatter plot is to visualize relationships. It helps identify whether variables are positively correlated, negatively correlated, or show no correlation. For example, the chart below illustrates the relationship between salary and the number of usable job skills.
 
-In examining the relationship between skills and salary, the scatter plot here reveals patterns  where with the trend line, and in the United States, identify data points that deviate significantly in the overall trend.
+When analyzing the relationship between skills and salary, this scatter plot highlights patterns and trends. The inclusion of a trend line helps identify outliers, particularly in the United States, where some data points deviate significantly from the overall trend.
 
 
 ![Alt text](media/2_Salary_by_Skill_Count.png)
