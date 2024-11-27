@@ -41,6 +41,9 @@ The formula =SORT(FILTER(A2:B112, ISNUMBER(B2:B112)), 2, 1) achieves filtering, 
 Using the ISNUMBER function, the "sort" filters data based on the second column (column B), in ascending order. The 2 specifies the column to sort by, and the 1 specifies ascending order.
 
 
+#### ⏰ Count of Job Schedule Type
+
+
 ![Alt text](media/Type.gif)
 
 - 🔍 **Multi-Criteria Filtering:** To filter to Job Type, a drop-down further filters the role excluding blanks.
