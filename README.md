@@ -36,7 +36,7 @@ The code below highlights the columns used to calculate the median values, utili
 - **💰 Salaries**
 - **📍 Locations**
   
-![Alt text](media/Hover_Point.gif)
+![Alt text](media/Country.gif)
 
 To make the map more than just a tool for highlighting countries with the most potential, users can hover over a region to quickly access role-based salary comparisons.
 
