@@ -52,7 +52,8 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 ![Alt text](media/Type.gif)<br><br>
 
 
-![Alt text](media/Highlight_1.png)
+
+As above, referencing the code below, to highligh the role selected, I utilized the same query. Changing the absolute reference of, in this build, cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
 
 
 ![Alt text](media/Highlight_2.png)
