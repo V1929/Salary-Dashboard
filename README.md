@@ -12,6 +12,9 @@ The dataset used for this project contains real-world data science job informati
 
 ![Alt text](media/Drop_Down.gif)  
 
+
+![Alt text]
+
 - **👨‍💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
