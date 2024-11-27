@@ -16,6 +16,7 @@ The dataset used for this project contains real-world data science job informati
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
+  
 ![Alt text](media/Hover_Point.gif)
 
 To make the map more than just a tool for highlighting countries with the most potential, users can hover over a region to quickly access role-based salary comparisons.
