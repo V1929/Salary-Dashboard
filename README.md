@@ -95,15 +95,24 @@ The formula counts the rows in the jobs table where all the following conditions
 ![Alt text](media/Chart_Role_Annual_Salary.png)
  <br>
  Above, the role "Data Anaylst" is highlighted where when analyzing positions, comparisons can be made.
-  <br>
+  <br><br>
   
 
-- 🛠️ **Excel Features:** I utilized bar charts where in a horizontal layout, which are easier to read. It is an optimized layout for clarity.
-- 🎨 **Design Choice:** The horizontal bar chart, as a role is selected, the "role" is highlighted for visual comparison of median salaries against other salaries.
+- 🛠️ **Excel Features:** I utilized bar charts where in a horizontal layout, are easier to read. It is an optimized layout for clarity.
+- 🎨 **Design Choice:** The horizontal bar chart, as a role is selected as above, the "role" is highlighted for visual comparison of median salaries against other salaries.
 - 📉 **Data Organization:** Charts are sorted in a descending format also aides in readability.
-- 💡 **Insights Gained:** When viewed with the selection of the "country" and "type" provides a comparrison of roles.
+- 💡 **Insights Gained:** When viewed with the selection of the "country" and "type", in the opening visual provides a comparison of roles.
+
+ <br><br>
+Below, though not included in the finished product, scatter plots is a type of data visualization used to represent the relationship between two quantitative variables. They are effective for identifying patterns, trends, and correlations in data.
+
+Key Purposes of a Scatter Plot is the visualizing of relationships. It helps to see if there is a correlation (positive, negative, or none) between variables. The chart below show the relationship between ssalsry and nnumber of usable job skills
+
+In xxamining the relationship between skills and salary, the scatter plot here reveals patterns  where with the trend line, and in the United States, identify data points that deviate significantly in the overall trend.
+
 
 ![Alt text](media/2_Salary_by_Skill_Count.png)
+ <br><br>
 
 ## Conclusion
 
