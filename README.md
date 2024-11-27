@@ -44,10 +44,20 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 ### ⏰ Job Schedule Type
 
 
-![Alt text](media/Type.gif)
-
 - 🔍 **Multi-Criteria Filtering:** To filter to Job Type, a drop-down further filters the role excluding blanks.
 - 🎯 **Tailored Insights:** This provides specific and detailed role information for job titles, regions, and schedule.
+
+
+![Alt text](media/Type.gif)
+
+
+![Alt text](media/Highlight1.png)
+
+![Alt text](media/Highlight2.png)
+
+
+
+
 
 
 
