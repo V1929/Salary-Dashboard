@@ -28,7 +28,9 @@ In the above demonstration, and the code below, to highligh the role selected, I
 
 ![Alt text](media/Median_Bar_Highlight2.png)
 
+The code below highlights the columns used to calculate the median values, utilizing the MEDIAN IF function as an array formula. This function is particularly effective for analyzing large datasets—in this case, nearly 33,000 rows of data. To execute the formula correctly, it must be entered as an array formula by pressing Ctrl+Shift+Enter instead of simply Enter.
 
+![Alt text](media/Calculate_Median_per_Country.png)
 
 - **👨‍💼 Job Title**
 - **💰 Salaries**
@@ -70,7 +72,7 @@ Referring to the demonstration above, and the code below, to highligh the role s
 
 
 
-![Alt text](media/Calculate_Median_per_Country.png)
+
 
 ### 📉 Charts
 
