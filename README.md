@@ -79,7 +79,7 @@ Let’s be honest—finding a new job is a job in itself. As soon as you secure 
 ![Alt text](media/Job_Site_Host.png)
  <br><br>
 The formula counts the rows in the jobs table where all the following conditions are true:\
-✅The job_via column matches the value in cell A2.\
+✅The job_via column matches the value in cell A2, this sheet.\
 ✅The job_title_short column matches the value in title, from a different sheet.\
 ✅The job_country column matches the value in country, from a different sheet.\
 💲The job_schedule_type column matches the value in type.
