@@ -13,7 +13,9 @@ The dataset used for this project contains real-world data science job informati
 ![Alt text](media/Drop_Down.gif)  
 
 
-![Alt text](Median_Bar_Highlight1.png)  ![Alt text](Median_Bar_Highlight2.png)
+![Alt text](Median_Bar_Highlight1.png)
+
+![Alt text](Median_Bar_Highlight2.png)
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
