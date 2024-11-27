@@ -65,7 +65,7 @@ Referring to the demonstration above, and the code below, to highligh the role s
 ![Alt text](media/HIghlight_1.png)
 
 
-🔭 Job-site, Job-site; Which Job Site
+- 🔭 **Job-site, Job-site; Which Job Site**
 
 
 ![Alt text](media/Job_Site_Host.png)
