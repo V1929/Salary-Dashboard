@@ -4,8 +4,9 @@
 
 Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data analytics job seekers with valuable insights. Encouraging users to explore salary trends, the dashboard includes preferred job portals, and geographic locations and roles in the field of data analytics, helping to make informed career decisions.
 
-- 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
-- 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
+
+- 🛠️ **Excel Features:** Bar charts feature (formatted salary values) are optimized layout for clarity.
+- 🎨 **Design Choice:** Horizontal bar charts were used for visual comparison of median salaries instead of column charts.
 
 ![Alt text](media/Dashboard.gif)
 
