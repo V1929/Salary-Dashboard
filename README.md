@@ -116,6 +116,6 @@ In examining the relationship between skills and salary, the scatter plot here r
 
 ## Conclusion
 
-The effort behind the dashboard was to provided and highlight my Excel skills. It also is provide insights regarding salary, a count of, number of jobs, and trends across various data-related job titles. 
+The effort behind the dashboard was to provide and highlight my Excel skills. It also is to provide insights regarding salary, a count of, or number of jobs, then trends across various data-related job titles. 
 
-Built using real-world data, it empowers users to make informed career decisions by exploring how factors such as location and job type through the interactive features offering a deeper understanding of the data analytics job market. The purpose of the effort is to assist data analytics professionals in planning their career paths.
+Built with real-world data, this tool empowers users to make informed career decisions by exploring factors such as location and job type through interactive features. It provides a deeper understanding of the data analytics job market, aiming to assist professionals in planning their career paths effectively.
