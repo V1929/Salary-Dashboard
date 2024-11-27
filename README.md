@@ -57,7 +57,7 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 
 ![Alt text](media/Highlight_2.png)
 
-
+![Alt text](media/HIghlight_1.png)
 
 
 
