@@ -12,12 +12,13 @@ The dataset used for this project contains real-world data science job informati
 
 ![Alt text](media/Drop_Down.gif)  
 
+In the above demonstration, and the code below, to highligh the role selected, I utilized the same query. Simply changing the absolute reference of, in this build, cell D2 from not equal, (<>), to equal ( = ), permitted the selected role to be highlighgted. 
 
 ![Alt text](media/Median_Bar_Highlight1.png)
 
 ![Alt text](media/Median_Bar_Highlight2.png)
 
-In highlighting the role selected, I utilized the same query. Simply changing the absolute reference of, in this build, cell D2 from not equal, (<>), to equal ( = ), permitted the selected role to be highlighgted. 
+
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
