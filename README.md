@@ -82,7 +82,7 @@ The formula counts the rows in the jobs table where all the following conditions
 ✅The job_via column matches the value in cell A2, this sheet.\
 ✅The job_title_short column matches the value in title, from a different sheet.\
 ✅The job_country column matches the value in country, from a different sheet.\
-💲The job_schedule_type column matches the value in type.
+   The job_schedule_type column matches the value in type.
 
 
 ###
