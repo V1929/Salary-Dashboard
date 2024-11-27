@@ -18,6 +18,8 @@ The dataset for this project consists of real-world data science job information
 
 From a professional perspective, analyzing this dataset enhanced my expertise in Excel, particularly in generating queries to derive statistical insights into data analytics roles and developing impactful visualizations.
 
+- 🛠️ **Functionality in Excel:** Other platforms for analysis are also available, particularly Python, which is widely used. Meanwhile, Excel continues to evolve, offering improved performance and capabilities.
+
 ![Alt text](media/Drop_Down.gif)  
 
 In the above demonstration, and the code below, to highligh the role selected, I utilized the same query. Simply changing the absolute reference of, in this example, cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
