@@ -43,9 +43,8 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 
 ![Alt text](media/Type.gif)
 
-- 🔍 **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
-- 📊 **Array Formula:** Utilizes `MEDIAN()` function with nested `IF()` statement to analyze an array.
-- 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
+- 🔍 **Multi-Criteria Filtering:** To filter to Job Type, a drop-down further filters the role excluding blanks.
+- 🎯 **Tailored Insights:** This provides specific and detailed role information for job titles, regions, and schedule.
 
 
 
