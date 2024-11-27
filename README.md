@@ -48,7 +48,7 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 
 
 - 🔍 **Multi-Criteria Filtering:** To filter Job Type, a drop-down allows customization of the role, without blanks.
-- 🎯 **Tailored Insights:** This provides specific and detailed role information for job titles, regions, and schedule.
+- 🎯 **Tailored Insights:** Combining the filtering of the postion type and detailed role information for job titles, regions, and schedule.
 
 
 ![Alt text](media/Type.gif)<br><br>
