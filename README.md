@@ -20,7 +20,7 @@ The dataset includes detailed information on job titles, salaries, required skil
 
 ![Alt text](media/Drop_Down.gif)  
 
-In the above demonstration, and the code below, to highligh the role selected, I utilized the same query. Simply changing the absolute reference of cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
+In the above demonstration, and the code below, to highligh the role selected, I utilized the same query. Simply changing the absolute reference of, in this example, cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
 
 ![Alt text](media/Median_Bar_Highlight1.png)
 
@@ -53,7 +53,7 @@ Using the ISNUMBER function, the "sort" filters data based on the second column 
 
 
 
-As above, referencing the code below, to highligh the role selected, I utilized the same query. Changing the absolute reference of, in this build, cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
+As above, referencing the code below, to highligh the role selected, I utilized the same query. Changing the absolute reference of cell D2 from not equal, (<>), to equal ( = ), highlights the selected role. 
 
 
 ![Alt text](media/Highlight_2.png)
