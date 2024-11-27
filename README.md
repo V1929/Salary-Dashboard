@@ -7,6 +7,7 @@ Utilizing a 2023 dataset, the Salary Dashboard was developed to empower data ana
 
 - 🛠️ **Excel Features:** Bar charts feature (formatted salary values) are optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar charts were used for visual comparison of median salaries instead of column charts.
+  
 
 ![Alt text](media/Dashboard.gif)
 
