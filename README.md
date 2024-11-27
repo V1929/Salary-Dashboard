@@ -31,7 +31,7 @@ To make the map more than just a tool for highlighting countries with the most p
 
 The formula =SORT(FILTER(A2:B112, ISNUMBER(B2:B112)), 2, 1) achieves filtering, FILTER(A2:B112, ISNUMBER(B2:B112)) the data in range A2:B112 to include only rows where the values in the adjacent column, column-B are numbers. This is done using the ISNUMBER function. The "sort" filters data based on the second column (column B), in ascending order. The 2 specifies the column to sort by, and the 1 specifies ascending order.
 
-
+![Alt text](media/Job_Host_site.png)
 
 
 
