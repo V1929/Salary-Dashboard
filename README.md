@@ -65,18 +65,18 @@ Referring to the demonstration above, and the code below, to highligh the role s
 ![Alt text](media/HIghlight_1.png)
 
 
-
+🔭 Job-site, Job-site; Which Job Site
 
 
 ![Alt text](media/Job_Site_Host.png)
 
 
-
+###
 
 
 ### 📉 Charts
 
-#### 📊 Data Science Job Salaries - Bar Chart
+### 📊 Data Science Job Salaries - Bar Chart
 
 ![Alt text](media/Salary_Dashboard_Chart.png)
 
