@@ -73,6 +73,7 @@ Referring to the demonstration above to the code below, to highligh the role sel
 
 
 Let’s be honest—finding a new job is a job in itself. As soon as you secure a new role, it’s essential to update your LinkedIn profile and proactively start exploring future opportunities. Interviewing is a critical skill in any position, as no job is guaranteed. Unforeseen circumstances can lead to the elimination of your role. This dropdown menu, derived from the dataset, highlights the platforms where data analytics positions are most frequently listed, providing valuable resources in such situations.
+ <br><br>
 
 
 ![Alt text](media/Job_Site_Host.png)
